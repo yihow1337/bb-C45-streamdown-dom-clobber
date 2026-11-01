@@ -1,0 +1,1 @@
+streamdown@2.7.1: DOM clobbering via empty rehype-sanitize clobberPrefix (unprefixed user-controlled ids)
